@@ -4,6 +4,16 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>02-autorelease.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>02-单个对象的内存管理分配.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
 		<key>02-集合类.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -43,6 +53,16 @@
 			<true/>
 		</dict>
 		<key>239CA0811D8977B4002F38FF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>239CA0921D89986F002F38FF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>239CA0A01D8C35C6002F38FF</key>
 		<dict>
 			<key>primary</key>
 			<true/>
